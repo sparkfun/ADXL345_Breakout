@@ -1,4 +1,2 @@
-ADXL345_Breakout
-================
-
-Triple Axis Accelerometer Breakout - ADXL345
+Power_Cell_Lipo_Charger_Booster
+===============================
