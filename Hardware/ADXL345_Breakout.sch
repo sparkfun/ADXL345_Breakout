@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.4">
+<eagle version="6.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -6469,6 +6469,7 @@ Various fiducial points for machine vision alignment.</description>
 <text x="5.08" y="40.64" size="1.778" layer="97">* Add decoupling cap - AD suggests 10uF and 0.1uF after upto 100Ohm resistance</text>
 <text x="166.37" y="11.684" size="2.54" layer="94" font="vector">Jim Lindblom</text>
 <text x="149.098" y="6.604" size="2.54" layer="94" font="vector">Revised by: Patrick Alberts</text>
+<text x="238.76" y="7.62" size="2.54" layer="94">v14</text>
 </plain>
 <instances>
 <instance part="GND1" gate="1" x="93.98" y="71.12"/>
