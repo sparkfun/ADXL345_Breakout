@@ -1,7 +1,7 @@
 ADXL345 Breakout Board
 ===============================
 
-[![ADXL345 Breakout](https://dlnmh9ip6v2uc.cloudfront.net/images/products/9/8/3/6/09836-_01c_i_ma.jpg)
+[![ADXL345 Breakout](https://cdn.sparkfun.com/assets/parts/3/9/0/2/09836-_01c.jpg)
 *ADXL345 Breakout Board (SEN-09836)*](https://www.sparkfun.com/products/9836)
 
 The ADXL345 is a small, thin, low power, 3-axis MEMS accelerometer with high resolution 913-bit) measurement at up to +-16g. 
